@@ -1,0 +1,43 @@
+.content {
+    margin-top: 21.44px;
+}
+.people {
+    display: flex;
+    border-style: solid;
+    border-radius: 15px;
+    padding: 15px;
+    margin-bottom: 20px;
+    border-width: 1px;
+    border-color: rgb(200,200,200);
+    transition: all 2s;
+    background: rgb(240,240,240);
+}
+.people:hover {
+    box-shadow: 30px 20px 5px #999999;
+}
+.intr {
+    margin-left: 20px;
+}
+#desk {
+    border-style: solid;
+    border-color: rgb(130, 42, 8);
+    border-width: 3px;
+    padding: 40px;
+    border-radius: 20px;
+    background: rgb(138, 70, 13)
+}
+span {
+    color: orange;
+    font-size: 30px;
+    font-weight: bold;
+}
+#buttons {
+    display: flex;
+}
+#bottom {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+z {
+    font-size: 12px;
+}
